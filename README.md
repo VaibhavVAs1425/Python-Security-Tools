@@ -39,8 +39,8 @@ A Python-based GUI application designed to demonstrate how malware persists and 
 <img width="1885" height="840" alt="Screenshot 2026-01-16 175311" src="https://github.com/user-attachments/assets/164748d7-24c3-4eba-890b-4012ba71eff9" />
 
 ### 2. Educational Keylogger (Endpoint Security)
-<img width="491" height="532" alt="Screenshot 2026-01-16 181827" src="https://github.com/user-attachments/assets/189c9bff-accb-47cc-8537-acf5f56925e6" />
-<img width="487" height="523" alt="Screenshot 2026-01-16 181859" src="https://github.com/user-attachments/assets/52214790-ccf4-4403-b9f4-609a6515e2f2" />
+<img width="491" height="532" alt="Screenshot 2026-01-16 181827" src="https://github.com/user-attachments/assets/189c9bff-accb-47cc-8537-acf5f56925e6" /> <img width="487" height="523" alt="Screenshot 2026-01-16 181859" src="https://github.com/user-attachments/assets/52214790-ccf4-4403-b9f4-609a6515e2f2" />
+
 *A Python-based GUI application...*
 
 
