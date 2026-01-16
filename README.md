@@ -28,3 +28,8 @@ A Python-based GUI application designed to demonstrate how malware persists and 
 
 ---
 *⚠️ **Disclaimer:** These tools are developed for educational and ethical testing purposes only. Usage of the keylogger on systems without permission is illegal.*
+
+### 1. Password Strength & Phishing Scanner (Web App)
+<img width="1890" height="847" alt="Screenshot 2026-01-16 165510" src="https://github.com/user-attachments/assets/7bf0f980-6b8a-4307-9903-909b586bde0f" />
+*A unified interface built with Streamlit...*
+
