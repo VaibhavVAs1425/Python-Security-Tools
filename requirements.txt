@@ -1,3 +1,8 @@
-streamlit
-pynput
-pyinstaller
+Required packages for the phishing scanner project
+
+For GUI in 1st project (Password Strength & Phishing Scanner (Web App))
+"streamlit"
+
+For 2nd Project Keylogger
+"pynput"
+"pyinstaller"
